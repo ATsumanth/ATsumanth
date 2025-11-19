@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm sumanth, this is my attempt at a README. I'll get back to this soon to make it better :)
+buh bye!
 <!--
 **ATsumanth/ATsumanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
