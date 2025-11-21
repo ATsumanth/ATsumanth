@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :D
 I'm Sumanth K. I'm a undergrad student at NMAMIT Karkala studying Electronics And Communication.
 I’m currently learning Python, C, C++, Verilog and want to expand into other languages.
 I'm aiming to up my knowledge by working on every interesting little oppurtunity that comes my way!
