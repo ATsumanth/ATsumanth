@@ -1,6 +1,8 @@
 ## Hi there 👋
-I'm sumanth, this is my attempt at a README. I'll get back to this soon to make it better :)
-buh bye!
+I'm Sumanth K. I'm a undergrad student at NMAMIT Karkala studying Electronics And Communication.
+I’m currently learning Python, C, C++, Verilog and want to expand into other languages.
+I'm aiming to up my knowledge by working on every interesting little oppurtunity that comes my way!
+
 <!--
 **ATsumanth/ATsumanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
